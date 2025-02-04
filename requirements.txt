@@ -95,3 +95,5 @@ uritemplate==4.1.1
 urllib3==2.2.3
 watchdog==6.0.0
 wcwidth==0.2.13
+
+Babel==2.12.1
